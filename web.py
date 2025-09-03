@@ -7,8 +7,6 @@ from pydub import AudioSegment
 import io
 import pandas as pd
 
-print("Erik")
-
 # --- FUNGSI-FUNGSI UTAMA ---
 
 @st.cache_resource()
