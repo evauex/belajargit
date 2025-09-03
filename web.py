@@ -6,10 +6,6 @@ from tensorflow.image import resize
 from pydub import AudioSegment
 import io
 import pandas as pd
-import numbers
-import tkinter as tk
-import flask
-import matplotlib.pyplot as plt
 
 # --- FUNGSI-FUNGSI UTAMA ---
 
