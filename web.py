@@ -6,7 +6,7 @@ from tensorflow.image import resize
 from pydub import AudioSegment
 import io
 import pandas as pd
-
+import date
 # --- FUNGSI-FUNGSI UTAMA ---
 
 @st.cache_resource()
