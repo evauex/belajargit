@@ -7,6 +7,7 @@ from pydub import AudioSegment
 import io
 import pandas as pd
 
+print('Hello Git!')
 print("erik")
 # --- FUNGSI-FUNGSI UTAMA ---
 
